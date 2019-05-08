@@ -11,7 +11,7 @@ Download Perforce's [Helix Visual Merge Tool](https://www.perforce.com/downloads
 
 ## Git set up
 
-**_Note: these next steps need to be done whenever you make a new Unity project._**
+**_Note: these next steps need to be done whenever you check out a repository containing a Unity project or make a new Unity project._**
 
 1. Go to the project folder and make sure you can see the hidden files and folders, go to the **.git folder** and open the **config** file with a text editor of your choice.
 
@@ -33,6 +33,8 @@ Download Perforce's [Helix Visual Merge Tool](https://www.perforce.com/downloads
 
 2. Change the **Version Control mode to Visible Meta Files** and the **Asset Serialization mode to Force Text**, like shown in the picture. <br/>
 ![](images/project-settings.png)
+
+3. If the project is already in git, commit ProjectSettings/EditorSettings.asset file.
 
 ## How to use
 
