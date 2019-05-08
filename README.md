@@ -21,7 +21,7 @@ Download Perforce's [Helix Visual Merge Tool](https://www.perforce.com/downloads
  tool = unityyamlmerge
 [mergetool "unityyamlmerge"]
  trustExitCode = false
- cmd = 'C:\\Program Files\\Unity\\\\Hub\\Editor\\UNITY_VERSION\\Data\\Tools\\UnityYAMLMerge.exe' merge -p "$BASE" "$REMOTE" "$LOCAL" "$MERGED"
+ cmd = 'C:\\Program Files\\Unity\\Hub\\Editor\\UNITY_VERSION\\Data\\Tools\\UnityYAMLMerge.exe' merge -p "$BASE" "$REMOTE" "$LOCAL" "$MERGED"
 ```
 **_Note: replace UNITY_VERSION with the latest stable Unity version you have installed in Unity Hub_**
 
