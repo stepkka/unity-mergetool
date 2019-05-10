@@ -1,6 +1,6 @@
 # Unity Smart Merge Tool
 
-Unity comes with a built-in tool that handles prefab and scene merge conflicts. The documentation on how to set it up is scarce and confusing (specially for first time git users).
+Unity comes with a built-in tool that handles prefab and scene merge conflicts.
 This is a guide on how to set up and use the tool with Sourcetree and Git.
 
 
